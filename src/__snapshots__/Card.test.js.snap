@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      Photo by Richard Pasquarella on Unsplash
+    </h4>
+    <img
+      alt="Photo by Richard Pasquarella on Unsplash"
+      class="Card-image"
+      src="image1.jpg"
+    />
+    <small
+      class="Card-small"
+    >
+      Image 1 of 1.
+    </small>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should match snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      Photo by Richard Pasquarella on Unsplash
+    </h4>
+    <img
+      alt="Photo by Richard Pasquarella on Unsplash"
+      class="Card-image"
+      src="image2.jpg"
+    />
+    <small
+      class="Card-small"
+    >
+      Image 2 of 2.
+    </small>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should match snapshot 3`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      Photo by Richard Pasquarella on Unsplash
+    </h4>
+    <img
+      alt="Photo by Richard Pasquarella on Unsplash"
+      class="Card-image"
+      src="image3.jpg"
+    />
+    <small
+      class="Card-small"
+    >
+      Image 3 of 3.
+    </small>
+  </div>
+</DocumentFragment>
+`;
